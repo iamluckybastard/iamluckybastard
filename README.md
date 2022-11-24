@@ -1,4 +1,4 @@
-- 👋 Sup, I’m @iamluckybastard
-- 👀 I’m interested in CYBER SECURITY
-- 🌱 I’m currently learning Kali Linux
-- 📫 We can get in touch on Twitter
+- ✌🏻 Sup, I’m @iamluckybastard
+- 🎭 Interested in CYBER SECURITY
+- 🖥️ Currently learning Kali Linux
+- 📱 We can get in touch on Twitter
